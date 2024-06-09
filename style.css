@@ -1,0 +1,318 @@
+header {
+  margin-left: 130px;
+}
+.Mycross {
+  background-color: rgb(0, 0, 0);
+  width: 1100px;
+  height: 70px;
+}
+.Mycross h1 {
+  color: aliceblue;
+  margin-left: 20px;
+  position: absolute;
+  margin-top: 10px;
+  text-shadow: 30px 3px 5px rgb(114, 4, 4);
+}
+.Mycross h3 {
+  color: aliceblue;
+  margin-left: 400px;
+  position: absolute;
+}
+.Mycross h3:hover {
+  color: rgb(116, 5, 5);
+}
+.Mycross .h3-2 {
+  color: aliceblue;
+  margin-left: 500px;
+  position: absolute;
+}
+.Mycross .h3-3 {
+  color: aliceblue;
+  margin-left: 600px;
+  position: absolute;
+}
+.box {
+  margin-left: 1000px;
+  gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.box img {
+  height: 40px;
+  width: 30px;
+}
+/* top-meu */
+
+.jordan {
+  background-color: rgb(33, 33, 33);
+  width: 1100px;
+  height: 500px;
+  margin-top: -45px;
+}
+
+.box-2 h1 {
+  color: rgb(255, 255, 255);
+
+  font-size: 55px;
+  margin-left: 100px;
+}
+.box-2 h4 {
+  color: rgb(255, 255, 255);
+  margin-top: 50px;
+  position: absolute;
+  font-size: 20px;
+  margin-left: 100px;
+}
+.box-2 h5 {
+  color: rgb(248, 252, 255);
+  margin-top: -46px;
+  font-size: 15px;
+  margin-left: 190px;
+  margin-top: 50px;
+  position: absolute;
+}
+.box-2 button {
+  color: rgb(255, 255, 255);
+  background-color: rgb(99, 13, 13);
+  font-size: 20px;
+  margin-left: 100px;
+  height: 40px;
+  width: 150px;
+  border-radius: 10px;
+  margin-top: 100px;
+}
+.box-2 button:hover {
+  box-shadow: 3px 5px 5px #002081;
+  background-color: rgb(162, 0, 0);
+}
+/* menu- Nike */
+.main {
+  margin-left: 7%;
+}
+.manu-div1 {
+  border: 2px solid black;
+  height: 300px;
+  width: 200px;
+  margin-top: 20px;
+}
+.manu-div1 button {
+  margin-top: 15px;
+  margin-left: 20px;
+  background-color: rgb(99, 13, 13);
+  color: rgb(255, 255, 255);
+  height: 30px;
+  border-radius: 5px;
+  width: 150px;
+}
+.manu-div1 button:hover {
+  box-shadow: 3px 5px 5px #002081;
+  background-color: rgb(162, 0, 0);
+}
+.manu-div1 h1 {
+  position: absolute;
+  margin-top: -15px;
+  margin-left: 12px;
+}
+.manu-div1 h2 {
+  margin-top: 150px;
+  margin-left: 12px;
+}
+.manu-div1 img {
+  margin-left: 30px;
+  position: absolute;
+  height: 130px;
+  width: 130px;
+}
+/* manu blok2 */
+.manu-div2 {
+  border: 2px solid black;
+  height: 300px;
+  width: 200px;
+  margin-top: 20px;
+  margin-left: 230px;
+  margin-top: -300px;
+}
+.manu-div2 button {
+  margin-top: 15px;
+  margin-left: 20px;
+  background-color: rgb(99, 13, 13);
+  color: rgb(255, 255, 255);
+  height: 30px;
+  border-radius: 5px;
+  width: 150px;
+}
+.manu-div2 button:hover {
+  box-shadow: 3px 5px 5px #002081;
+  background-color: rgb(162, 0, 0);
+}
+.manu-div2 h1 {
+  position: absolute;
+  margin-top: -15px;
+  margin-left: 12px;
+}
+.manu-div2 h2 {
+  margin-top: 150px;
+  margin-left: 12px;
+}
+.manu-div2 img {
+  margin-left: 30px;
+  position: absolute;
+  height: 130px;
+  width: 130px;
+}
+/* menu blok 3 */
+.manu-div3 {
+  border: 2px solid black;
+  height: 300px;
+  width: 200px;
+  margin-top: 20px;
+  margin-left: 230px;
+  margin-top: -295px;
+}
+.manu-div3 button {
+  margin-top: 15px;
+  margin-left: 20px;
+  background-color: rgb(99, 13, 13);
+  color: rgb(255, 255, 255);
+  height: 30px;
+  border-radius: 5px;
+  width: 150px;
+}
+.manu-div3 button:hover {
+  box-shadow: 3px 5px 5px #002081;
+  background-color: rgb(162, 0, 0);
+}
+.manu-div3 h1 {
+  position: absolute;
+  margin-top: -15px;
+  margin-left: 12px;
+}
+.manu-div3 h2 {
+  margin-top: 150px;
+  margin-left: 12px;
+}
+.manu-div3 img {
+  margin-left: 30px;
+  position: absolute;
+  height: 130px;
+  width: 130px;
+}
+/* nemu blok 3 */
+.manu-div4 {
+  border: 2px solid black;
+  height: 300px;
+  width: 200px;
+  margin-top: 20px;
+  margin-left: 230px;
+  margin-top: -300px;
+}
+.manu-div4 button {
+  margin-top: 15px;
+  margin-left: 20px;
+  background-color: rgb(99, 13, 13);
+  color: rgb(255, 255, 255);
+  height: 30px;
+  border-radius: 5px;
+  width: 150px;
+}
+.manu-div4 button:hover {
+  box-shadow: 3px 5px 5px #002081;
+  background-color: rgb(162, 0, 0);
+}
+.manu-div4 h1 {
+  position: absolute;
+  margin-top: -15px;
+  margin-left: 12px;
+}
+.manu-div4 h2 {
+  margin-top: 150px;
+  margin-left: 12px;
+}
+.manu-div4 img {
+  margin-left: 30px;
+  position: absolute;
+  height: 130px;
+  width: 130px;
+}
+/* nike-2 menu{ */
+.nike-2 {
+  margin-left: -463px;
+}
+/* footer */
+.adres {
+  position: absolute;
+  width: 1400px;
+  height: 286px;
+  left: 0;
+  right: 0;
+  top: 1240px;
+  bottom: 0;
+  background: rgb(46, 46, 46);
+  margin-top: 100px;
+}
+.adres h1 {
+  width: 140px;
+  height: 21px;
+  color: rgb(255, 255, 255);
+  font-family: Baskerville;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: -1px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 50px;
+}
+.FOLLOW {
+  margin-top: 54px;
+  margin-left: 226px;
+}
+.WEDDING {
+  margin-top: -100px;
+  margin-left: 594px;
+}
+.CONTACT {
+  margin-top: -150px;
+  margin-left: 800px;
+}
+.CONTACT button {
+  width: 183px;
+  height: 28px;
+  background: rgb(98, 24, 0);
+  color: rgb(255, 255, 255);
+  font-family: Baskerville;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: -1px;
+  letter-spacing: 0%;
+  margin-top: 50px;
+  margin-left: 170px;
+  border-radius: 5px;
+}
+.CONTACT button:hover {
+  background: rgb(148, 44, 0);
+  box-shadow: 3px 5px 5px #002081;
+}
+.CONTACT input {
+  background: rgb(46, 46, 46);
+  box-sizing: border-box;
+  border: 1px solid rgb(125, 125, 125);
+  width: 183px;
+  height: 28px;
+  margin-left: 50px;
+  color: aliceblue;
+}
+.CONTACT h1 {
+  margin-left: 200px;
+}
+
+.colso-1 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 1200px;
+}
+/* lpp, */
+.box-2 img {
+  height: 200px;
+  margin-left: 300px;
+  border-radius: 50px;
+}
